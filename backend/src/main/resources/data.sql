@@ -1,0 +1,2 @@
+INSERT INTO content(password, path, title) VALUES ('ssafy', 'http://localhost:8080/img/1.jpg', '야경1');
+INSERT INTO content(password, path, title) VALUES ('ssafy', 'http://localhost:8080/img/2.jpg', '야경2');
